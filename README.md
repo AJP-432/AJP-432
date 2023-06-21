@@ -1,10 +1,6 @@
-Hi, 
+# 🦹🏽 Ajlal Paracha
 
-I just did 1st Year UWaterloo CS and now am a DevOps Engineer @ NSI.
+**`Worldbuiler (Technologist/Bookworm/Champ)`**
 
-Check out some of my work -- You will see lots of updates in the coming weeks!
-
-I am excited to see where I work next year -- maybe it will be with you!
-
-Later, 
+I am a 1C Computer Science student at the University of Waterloo interning at NSI as a DevOps Engineer. With a passion for anything and allthings technology, keep tabs on my github, because you will see some super dope stuff in the coming weeks, months, and years. 
 
